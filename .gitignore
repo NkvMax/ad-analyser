@@ -23,3 +23,6 @@ data/inference_thresholds.json
 poetry.lock
 .pytest_cache/
 .mypy_cache/
+
+# macOS resource forks and similar
+._*
