@@ -1,0 +1,25 @@
+# виртуальное окружение
+.venv/
+__pycache__/
+*.pyc
+
+# кэши и артефакты
+data/caches/
+data/cross_encoder_rubert/
+data/heads/
+data/rubert_cls_model/
+data/subclf_rubert_apart/
+data/subclf_rubert_autos/
+
+# модели и joblib-артефакты
+data/*.joblib
+data/inference_thresholds.json
+
+# ноутбучные артефакты
+*.ipynb_checkpoints/
+*.DS_Store
+
+# Poetry/venv служебное
+poetry.lock
+.pytest_cache/
+.mypy_cache/
