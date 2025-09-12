@@ -17,7 +17,6 @@ data/inference_thresholds.json
 
 # ноутбучные артефакты
 *.ipynb_checkpoints/
-*.DS_Store
 
 # Poetry/venv служебное
 poetry.lock
@@ -26,3 +25,4 @@ poetry.lock
 
 # macOS resource forks and similar
 ._*
+*.DS_Store
