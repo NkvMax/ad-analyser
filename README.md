@@ -58,7 +58,9 @@ data/
 └─ synthetic_ru_private_ads_50cats_10000_v2.csv  # пример датасета
 ```
 
-[Скачать артифакты](https://huggingface.co/NkvMax/ad-analyser-models/tree/main)
+[Скачать модели](https://huggingface.co/NkvMax/ad-analyser-models/tree/main)
+
+[Скачать датасеты](https://huggingface.co/datasets/NkvMax/ad-analyser-datasets/tree/main)
 
 ---
 
